@@ -22,6 +22,6 @@ Source: 34 CFR § 99.2 “Education Records” and “Record”
 
 I understand that by the virtue of my work in CSCI 290 and/or CSCI 390 at Davis and Elkins College, I may have access to records or information which contains individually identifiable information, the disclosure of which is prohibited by the **Family Education Rights and Privacy Act of 1974**. I acknowledge that I fully understand that intentional disclosure by me of this information to any unauthorized person could subject me to criminal and civil penalties imposed by law. I further acknowledge that such willful or unauthorized disclosure also violates Davis and Elkins College policy and could constitute just cause for disciplinary action including but not limited to failing the course, regardless of whether criminal or civil penalties are imposed. 
 
- Name: <type your name here>
-- [ ] Signature. By marking this box, I indicate my agreement to the terms above.
+ Name: <Jacob Johnson>
+- [X] Signature. By marking this box, I indicate my agreement to the terms above.
   
