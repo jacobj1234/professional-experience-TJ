@@ -1,7 +1,7 @@
 # Learn CSS
 
 1. Study the following tutorial at w3schools:
-- [ ] [CSS Tutorial](https://www.w3schools.com/css/default.asp)
+- [x] [CSS Tutorial](https://www.w3schools.com/css/default.asp)
 
 (Note: There are multiple pages in the tutorial.)
 
